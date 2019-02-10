@@ -3,5 +3,4 @@ NodeJS wrapper for kdmapper. kdmapper exploits vulnerabilities in intels iqvw64e
 
 Example:
 
-var kd = require("kdmapper");
-kd.mapDriver(__dirname+"\\dummy.sys");
+require("kdmapper").mapDriver(__dirname+"\\dummy.sys");
