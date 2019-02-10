@@ -1,0 +1,31 @@
+{
+  "bugs": {
+    "url": "https://github.com/Zysen/node-kdmapper/issues"
+  },
+  "dependencies": {},
+  "description": "Node Wrapper for kdmapper.",
+  "gypfile": true,
+  "homepage": "https://github.com/Zysen/node-kdmapper#readme",
+  "keywords": [
+    "intel vulnerability"],
+  "license": "MIT",
+  "main": "kdmapper.js",
+  "maintainers": [
+    {
+      "name": "zysen",
+      "email": "zysennz@gmail.com"
+    }
+  ],
+  "name": "kdmapper",
+  "optionalDependencies": {},
+  "os": [
+    "win32"
+  ],
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zysen/node-kdmapper.git"
+  },
+  "version": "0.0.1"
+}
